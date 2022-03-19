@@ -1,0 +1,219 @@
+[
+    {
+      "title": "Dut Pekmezi/Tunceli",
+      "id": "id-1",
+      "description": "Tunceli'nin Harçik köyünde, kimyasal ilaç ve gübre kullanılmadan asırlık dut ağaçlarından silkelenerek toplanan dutlar, öncelikle içindeki yapraklardan ayıklanır ve varsa üzerindeki tozun gitmesi için soğuk suda yıkanır. Yıkanan dutlar süzüldükten sonra elle yoğrulur ve kazanlarda kaynatılır, sonra bez torbalara koyulur ve bir askıya asılarak suyu süzülür. Süzüldükten sonra kazanlara konularak kaynatılır. Tepsilerine konularak bir kaç gün güneşte bekletildikten sonra kaplara konulur.",
+      "price": "65",
+      "image": "/images/dut-pekmezi.jpeg"
+    },
+    {
+        "title": "Üzüm Pekmezi/Çanakkale",
+        "id": "id-2",
+        "description": "Çanakkale Bayramiç'te kimyasal ilaç ve gübre kullanılmadan yetiştirilen üzümler toplanır. Üzümlerin yıkanmasından sonra havuzlarda suyu çıkartılıp kestirilmeye bırakılır. Bu şekilde bir gün bekletilip sonrasında 7-8 saat kaynatılarak hiçbir koruyucu katkı maddesi kullanılmadan geleneksel yöntemlere göre üretilmiştir.",
+        "price": "65",
+        "image": "/images/uzum-pekmezi.jpeg"
+      },
+      {
+        "title": "Tahin/Çanakkale",
+        "id": "id-3",
+        "description": "Tahin, Çanakkale Bayramiç'te atalık susam tohumlarından üretilmiş olup çifte kavrulmuştur. Susamı kabuklu çektirilmiştir. Bu şekilde lif oranı daha fazla olmaktadır. Kimyasal ilaç ve gübreye maruz kalmamış topraklarda sadece solucan gübresi ile yetiştirilmiş susamdan üretilmiştir. Üretim süreçlerinde, kadın emeğinin ikincilleştirilmediği, her türlü emek sömürüsünden uzak, doğayı savunan ve koruyan ilkelere önem verilmiştir.",
+        "price": "65",
+        "image": "/images/tahin.jpeg"
+      },
+      {
+        "title": "Dut Kurusu/Erzincan",
+        "id": "id-4",
+        "description": "Kuru Dut, Erzincan da ilaç ve kimyasal gübre kullanılmamış asırlık ağaçların altına serilen tülllerde toplanması sonrasın güneşte son derece temiz koşullarda kurutulmaya bırakılmıştır. İnsan eli değmeden bidonlarda saklanmaktadır.",
+        "price": "60",
+        "image": "/images/dut-pekmezi.jpeg"
+      },
+      {
+        "title": "Domates Salçası/Çanakkale",
+        "id": "id-5",
+        "description": "Tunceli'nin Harçik köyünde, kimyasal ilaç ve gübre kullanılmadan asırlık dut ağaçlarından silkelenerek toplanan dutlar, öncelikle içindeki yapraklardan ayıklanır ve varsa üzerindeki tozun gitmesi için soğuk suda yıkanır. Yıkanan dutlar süzüldükten sonra elle yoğrulur ve kazanlarda kaynatılır, sonra bez torbalara koyulur ve bir askıya asılarak suyu süzülür. Süzüldükten sonra kazanlara konularak kaynatılır. Tepsilerine konularak bir kaç gün güneşte bekletildikten sonra kaplara konulur.",
+        "price": "45",
+        "image": "/images/domates-salcasi.jpeg"
+      },
+      {
+        "title": "Erişte/Çanakkale",
+        "id": "id-6",
+        "description": "Erişte, Çanakkale Bayramiç'te kimyasal ilaç ve gübre kullanılmadan atalık tohumlarla yetiştirilen buğdaydan üretilmiş un ve yumurta kullanılarak üretilmiştir.",
+        "price": "50",
+        "image": "/images/eriste.jpeg"
+      },
+      {
+        "title": "Tarhana/Çanakkale",
+        "id": "id-7",
+        "description": "Tarhana, Çanakkale Bayramiç'te kimyasal ilaç ve gübre kullanılmadan atalık tohumlarla yetiştirilmiş domates, soğan, biber bileşenleri ile beraber yoğurt eklenmesiyle üretilmiştir.",
+        "price": "55",
+        "image": "/images/tarhana.jpeg"
+      },
+      {
+        "title": "Vegan Tarhana/Çanakkale",
+        "id": "id-8",
+        "description": "Tarhana, Çanakkale Bayramiç'te kimyasal ilaç ve gübre kullanılmadan atalık tohumlarla yetiştirilmiş domates, soğan, biber bileşenlerinden üretilmiştir.",
+        "price": "55",
+        "image": "/images/dut-pekmezi.jpeg"
+      },
+      {
+        "title": "Kahvaltılık Domates/Çanakkale",
+        "id": "id-9",
+        "description": "Kahvaltılık domates, Çanakkale Bayramiç'te geleneksel yöntemlerle üretilmiştir. Bu kahvaltılık domates, kimyasal ilaç ve gübreye maruz kalmamış topraklarda sadece solucan gübresi ile yetiştirilmiş domates, kekik, zeytin yağı, biberiye, sarımsak bileşenlerinden üretilmiştir.",
+        "price": "35",
+        "image": "/images/kahvaltilik-domates.jpeg"
+      },
+      {
+        "title": "Biber Salçası/Gaziantep",
+        "id": "id-10",
+        "description": "Gaziantep'te küçük bir bostanda kimyasal ilaç ve gübre kullanılmadan yetiştirilen biberler, biber çekme makinasında çekilerek tepsilerde güneş ışığında kurumaya bırakılır ve daha sonra kaplara konularak biber salçası kullanıma hazır hale gelir. Üretimin hiçbir aşamasında katkı maddesi bulunmamaktadır.",
+        "price": "42",
+        "image": "/images/biber-salcasi.jpeg"
+      },
+      {
+        "title": "Domates Kurusu/Çanakkale",
+        "id": "id-11",
+        "description": "Domates kurusu Çanakkale Bayramiç'te kimyasal ilaç ve gübre kullanılmadan atalık tohumlarla yetiştirilen domateslerin toplanması ve kesilip tuzlanarak güneş ışığında kurutularak üretilmiştir.",
+        "price": "95",
+        "image": "/images/domates-kurusu.jpeg"
+      },
+      {
+        "title": "Fasulye/Erzincan",
+        "id": "id-12",
+        "description": "Erzincan'da yerli ve atalık tohumlardan yetiştirilmiş olan fasülye, eylül ortası veya sonu gibi toplanarak kurutulup sonrasında patos işlemi yapılarak sapla saman birbirinden ayrılır.",
+        "price": "35",
+        "image": "/images/fasulye.jpeg"
+      },
+      {
+        "title": "Nohut/Çanakkale",
+        "id": "id-13",
+        "description": "Nohut, Çanakkale Bayramiç'te atalık tohumlardan yetiştirilmiştir. Hiçbir sürecinde kimyasal gübre ve ilaç kullanılmadan yetiştirilmiştir.",
+        "price": "35",
+        "image": "/images/nohut.jpeg"
+      },
+      {
+        "title": "Pul Biber/Gaziantep",
+        "id": "id-14",
+        "description": "Gaziantep'te kimyasal ilaç ve gübre kullanılmadan yetiştirilen kırmızı biberler, içi ayıklanarak tohumlarından arındırılır. Daha sonra yıkanarak temizlenmesi sağlanır. Küf oluşmaması için suyundan süzülür. Daha sonra güneş altında 1 hafta kurumaya bırakılır. Kuruma işlemi bittikten sonra çekim aşamasına geçilerek zeytinyağı ile birlikte, tuzsuz bir şekilde biberlerin pul bibere dönüşümü gerçekleşmiş olur.",
+        "price": "10",
+        "image": "/images/pul-biber.jpeg"
+      },
+      {
+        "title": "Fındık/Trabzon",
+        "id": "id-15",
+        "description": "Fındık, Trabzon'da kimyasal ilaç ve gübreye maruz kalmamış topraklarda geleneksel yöntemlerle yetiştirilmiştir.",
+        "price": "35",
+        "image": "/images/findik.jpeg"
+      },
+      {
+        "title": "Ceviz/Elazığ",
+        "id": "id-16",
+        "description": "Ceviz, Elazığ'da kimyasal ilaç ve gübre kullanılmadan atalık ceviz ağaçlarından Eylül ayı sonunda silkelenerek toplanır. Cevizin üzerindeki yeşil kabuklar soyulur, varsa çürük olanlar ayıklanır ve daha sonra güneşe serilerek kurutulur.",
+        "price": "50",
+        "image": "/images/ceviz.jpeg"
+      },
+      {
+        "title": "Bal/Tunceli",
+        "id": "id-17",
+        "description": "Bal, Tunceli Nazımiye ilçesinin Ayranlı Köyü'nde 1500 metre ile 2200 metre rakımlı, tarım arazilerinde kimyasal ilaç ve gübrenin kullanılmadığı ve bitki çeşitliliği açısından zengin olduğu bir coğrafyada doğal çiçek balı üretilmektedir. Bal üretim safhasında şeker, şurup veya ilaç bal arılarına verilmemiştir. Arılar, Haziran ayının sonuna doğru peteklere bal doldurmaya başlar ve Ağustos ayının sonuna doğru bal hasadı yapılır.",
+        "price": "90",
+        "image": "/images/bal.jpeg"
+      },
+      {
+        "title": "Tulum Peyniri/Erzincan",
+        "id": "id-18",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "70",
+        "image": "/images/tulum-peyniri.jpeg"
+      },
+      {
+        "title": "Kırma Yeşil Zeytin/Hatay",
+        "id": "id-19",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "95",
+        "image": "/images/kirma-yesil-zeytin.jpeg"
+      },
+      {
+        "title": "Patlıcan Kurusu/Gaziantep",
+        "id": "id-20",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "50",
+        "image": "/images/patlican-kurusu.jpeg"
+      },
+      {
+        "title": "Biber Kurusu/Gaziantep",
+        "id": "id-21",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "50",
+        "image": "/images/dut-pekmezi.jpeg"
+      },
+      {
+        "title": "Zeytinyağı/Çanakkale",
+        "id": "id-22",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "65",
+        "image": "/images/zeytinyagi.jpeg"
+      },
+      {
+        "title": "Kara Kılçık Buğday Unu/Çanakkale",
+        "id": "id-23",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "30",
+        "image": "/images/kara-kilcik-bugday-unu.jpeg"
+      },
+      {
+        "title": "Kekik/Çanakkale",
+        "id": "id-24",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "8",
+        "image": "/images/kekik.jpeg"
+      },
+      {
+        "title": "Nane/Çanakkale",
+        "id": "id-25",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "10",
+        "image": "/images/nane.jpeg"
+      },
+      {
+        "title": "Defne Sabunu/Çanakkale",
+        "id": "id-26",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "12",
+        "image": "/images/defne-sabunu.jpeg"
+      },
+      {
+        "title": "Zeytinyağı Sabunu/Çanakkale",
+        "id": "id-27",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "12",
+        "image": "/images/zeytinyagi-sabunu.jpeg"
+      },
+      {
+        "title": "Ekinezya/Çanakkale",
+        "id": "id-28",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "65",
+        "image": "/images/ekinezya.jpeg"
+      },
+      {
+        "title": "Civanpercemi/Çanakkale",
+        "id": "id-29",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "65",
+        "image": "/images/civanpercemi.jpeg"
+      },
+      {
+        "title": "Karabaş Otu/Çanakkale",
+        "id": "id-30",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "65",
+        "image": "/images/karabas-otu.jpeg"
+      },
+      {
+        "title": "Hatmi/Çanakkale",
+        "id": "id-31",
+        "description": "Ürün hikayesi en yakın zamanda eklenecektir.",
+        "price": "65",
+        "image": "/images/hatmi.jpeg"
+      }
+]
