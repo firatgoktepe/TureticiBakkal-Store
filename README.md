@@ -1,4 +1,6 @@
+## Description
 
+- An e-commerce app built with <b>React/Next.js</b> and <i>Snipcart</i>
 
 ## Getting Started
 
