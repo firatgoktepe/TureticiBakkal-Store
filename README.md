@@ -4,13 +4,9 @@
 
 ## Getting Started
 
-### Environment File
+- You can use this project as a starting point for your own project. Just change the `products.json` file to your own products. And you can create your own snipcart account (https://snipcart.com/) to configure your own cart functionalities.
 
-Create a file called `.env.local` at the root of the project with:
-
-```
-NEXT_PUBLIC_SNIPCART_API_KEY="[Your Snipcart API Key]"
-```
+- After clone (`git@github.com:firatgoktepe/TureticiBakkal-Store.git`) the app into your local, In the project directory, you can run:
 
 ### Running the Project
 
@@ -23,5 +19,14 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+### Environment File
+
+Create a file called `.env.local` at the root of the project with:
+
+```
+NEXT_PUBLIC_SNIPCART_API_KEY="[Your Snipcart API Key]"
+```
 
 
