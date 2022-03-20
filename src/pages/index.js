@@ -9,6 +9,17 @@ import styles from '@styles/Home.module.css';
 import products from '../../products.json';
 
 export default function Home() {
+
+  // Function that returns the product excerpt
+  const getProductExcerpt = (prd) => {
+    if(prd.length > 50 ){
+      const excerpt = prd.split(' ').slice(0, 20).join(' ');
+      return excerpt + '...';
+    } else {
+      return prd
+    }
+  }
+
   return (
     <Layout>
       <Head>
@@ -23,7 +34,7 @@ export default function Home() {
                   <a>
                     <img src={product.image} alt={`Preview of ${product.title}`} />
                     <h3>{ product.title }</h3>
-                    <p className={styles.cardDescription}>{ product.description }</p>
+                    <p className={styles.cardDescription}>{ getProductExcerpt(product.description) }</p>
                     <p>${ product.price }</p>
                   </a>
                 </Link>
