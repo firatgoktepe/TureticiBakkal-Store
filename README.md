@@ -2,6 +2,10 @@
 
 - An e-commerce app built with <b>React/Next.js</b> and <i>Snipcart</i>
 
+### Check it out
+
+- Live Link: https://turetici-bakkal-store.vercel.app/
+
 ## Getting Started
 
 - You can use this project as a starting point for your own project. Just change the `products.json` file to your own products. And you can create your own snipcart account (https://snipcart.com/) to configure your own cart functionalities.
