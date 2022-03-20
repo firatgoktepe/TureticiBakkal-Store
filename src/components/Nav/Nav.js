@@ -19,7 +19,7 @@ const Nav = ({ children }) => {
     <nav className={styles.nav}>
       <Container className={styles.navContainer}>
         <p className={styles.title}>
-          <Link href="/">
+          <Link href="/">          
             <a>Turetici Bakkal Store</a>
           </Link>
         </p>
