@@ -4,7 +4,8 @@ import { FaShoppingCart } from 'react-icons/fa';
 import Layout from '@components/Layout';
 import Container from '@components/Container';
 
-import styles from '@styles/Product.module.css'
+import styles from '@styles/Product.module.css';
+import Link from "next/link"
 
 import products from '../../../products.json';
 
@@ -28,6 +29,12 @@ export default function Product({ product }) {
             <p>{ product.description }</p>
 
             <p>${ product.price }</p>
+
+            <Link href={`https://tureticibakkal.com/`}>
+              <a>
+                Turetici Bakkal Store {new Date().getFullYear()}
+              </a>
+            </Link>
 
             <p>
               <button className="snipcart-add-item"
