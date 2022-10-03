@@ -30,7 +30,7 @@ export default function Product({ product }) {
 
             <p>${ product.price }</p>
 
-            <Link href={`https://tureticibakkal.com/`}>
+            <Link href="https://tureticibakkal.com">
               <a>
                 Turetici Bakkal Store {new Date().getFullYear()}
               </a>
