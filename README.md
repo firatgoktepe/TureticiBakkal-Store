@@ -4,7 +4,7 @@
 
 ### Check it out
 
-- Live Link: https://tb-store.vercel.app/
+- Live Link: https://tb-bakkal-store.vercel.app/
 
 ### Screenshots
 
