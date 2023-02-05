@@ -4,7 +4,7 @@
 
 ### Check it out
 
-- Live Link: https://turetici-bakkal-store.vercel.app/
+- Live Link: https://tb-store.vercel.app/
 
 ### Screenshots
 
